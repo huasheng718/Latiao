@@ -21,6 +21,7 @@ import {
 
 import home from './home.js';
 import list from './list.js';
+import listdir from './content/ListDir.js'
 
 
 
@@ -138,6 +139,9 @@ const MyNav = StackNavigator({
     // 将需要跳转的页面注册在这里，全局才可以跳转
     list:{
         screen:list
+    },
+    listdir:{
+        screen:listdir
     },
 
 },{});

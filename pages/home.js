@@ -66,7 +66,7 @@ export default class home extends Component {
                 if (typeof resolve === 'function') {
                     setTimeout(() => {
                         resolve();
-                    }, 100);
+                    }, 1000);
                 }
             })
             .done();
@@ -136,7 +136,7 @@ export default class home extends Component {
 
                     <View style={{ flex: 1 }}>
                         <Text>Hello!</Text>
-                        {this._renderButton('Close', () => this.setState({ isModalVisible: false }))}
+                        {this._renderButton('关闭', () => this.setState({ isModalVisible: false }))}
                     </View>
                 </Modal>
             </View>
@@ -158,6 +158,10 @@ export default class home extends Component {
     }
     renderMovie(result) {
         return (
+            <TouchableOpacity activeOpacity ={1} onPress={()=>{
+              const { navigate } = this.props.navigation;
+              navigate('listdir');
+        }}>
             <View style={styles.rightContainer}>
 
                 <View style={styles.header}>
@@ -167,7 +171,7 @@ export default class home extends Component {
                 </View>
 
                 <Text style={styles.content}>{result.content}</Text>
-                <TouchableOpacity activeOpacity ={1} onPress={this._showModal}>
+
                     {result.images.map((image) => (
                         <Image
                             key={image.id}
@@ -182,10 +186,10 @@ export default class home extends Component {
                             style={styles.thumbnail}
                         />
                     ))}
-                </TouchableOpacity >
+
 
             </View>
-
+              </TouchableOpacity >
         );
     }
 
