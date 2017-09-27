@@ -1,6 +1,14 @@
 [
     {
+        "merged": "D:\\hhh\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
         "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\hhh\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {

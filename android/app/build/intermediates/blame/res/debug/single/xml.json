@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\hhh\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\346b78da18376a5b0be0cde69197df38f72cf6ea\\output\\res\\xml\\preferences.xml"
+    },
+    {
         "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\St\\.android\\build-cache\\c8102c84824fac76385ad9bfed486976a96796d6\\output\\res\\xml\\preferences.xml"
     }

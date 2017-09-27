@@ -1,7 +1,4 @@
-#Wed Sep 27 13:22:29 CST 2017
-base.0=D\:\\Latiao\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9d5d5bd30f50d4bad750417365e10e646066c2a1
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\Latiao\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_71b50432c874ee202bed6498b8c20cb112bd2bbb\\classes.dex
-base.1=D\:\\Latiao\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_71b50432c874ee202bed6498b8c20cb112bd2bbb
-file.0=D\:\\Latiao\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9d5d5bd30f50d4bad750417365e10e646066c2a1\\classes.dex
+#Wed Sep 27 16:23:18 CST 2017
+base.0=D\:\\hhh\\Latiao\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\hhh\\Latiao\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -23,15 +23,7 @@ import { StackNavigator,TabNavigator,TabBarBottom } from 'react-navigation';
 import Modal from 'react-native-modal'
 
 var REQUEST_URL = 'http://latiao.izanpin.com/api/article/recommend?' + Math.random();
-
-
 export default class home extends Component {
-    static navigationOptions = ({navigation}) => ({
-        title: '辣条',
-        titleStyle: {color: '#ff00ff'},
-        headerStyle:{backgroundColor:'#000000'}
-    });
-
     constructor(props) {
         super(props);
         this.state = {
@@ -74,7 +66,7 @@ export default class home extends Component {
                 if (typeof resolve === 'function') {
                     setTimeout(() => {
                         resolve();
-                    }, 1000);
+                    }, 100);
                 }
             })
             .done();
@@ -115,9 +107,10 @@ export default class home extends Component {
         }
 
         return (
+
           <ScrollableTabView  renderTabBar={() => <ScrollableTabBar />}
           >
-            <View  tabLabel='Tab #1' style={styles.pullingcent} >
+            <View  tabLabel='搞笑段子' style={styles.pullingcent} >
                 <PullList
                     onPullRelease={(resolve) => { this.fetchData(resolve) }}
                     topIndicatorRender={this.topIndicatorRender}
@@ -147,8 +140,8 @@ export default class home extends Component {
                     </View>
                 </Modal>
             </View>
-            <View tabLabel='Tab #2'><Text>favorite</Text></View>
-            <View tabLabel='Tab #3'><Text>project</Text></View>
+            <View tabLabel='内涵视频'><Text>favorite</Text></View>
+            <View tabLabel='点击排行'><Text>project</Text></View>
           </ScrollableTabView>
 
         );

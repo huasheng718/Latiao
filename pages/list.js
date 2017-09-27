@@ -1,38 +1,56 @@
 import React, { Component } from 'react';
 import {
+  AppRegistry,
   StyleSheet,
   Text,
   View
 } from 'react-native';
 
 export default class list extends Component {
-  static navigationOptions = ({navigation}) => ({
-      title: '辣条',
-      titleStyle: {color: '#ff00ff'},
-      headerStyle:{backgroundColor:'#000000'}
-  });
-
-  constructor(props){
-    super(props);
-
-  }
-
-  gotoPage(){
-    const {navigate} = this.props.navigation;
-    navigate('Page',{
-      user:'Page'
-    });
-  }
-
   render() {
     return (
-      <View style={{flex:1,justifyContent:'center',alignItems:'center',backgroundColor:'#888888'}}>
-        <Text>Home</Text>
+      <View style={styles.container}>
+        <Text style={styles.welcome}>
+          Welcome to Test1 !
+        </Text>
+        <Text style={styles.instructions} onPress={()=>{
+              const { navigate } = this.props.navigation;
+              navigate('Detail1');
+        }}>
+          点我跳转到Detail1
+        </Text>
+        <Text style={styles.instructions}>
+          当前页面的Tabbar是在App.js中通过最普通的方式自定义。
+        </Text>
+        <Text style={styles.instructions} onPress={()=>{
+          const { navigate } = this.props.navigation;
+              navigate('Detail2');
+        }}>
+          在Detail2中有reset和navigate的使用方法(点文字跳转)
+        </Text>
 
-        <View style={{width:100,height:40,backgroundColor:'red',justifyContent:'center',alignItems:'center'}}>
-          <Text style={{color:'#fff'}} onPress={()=>{this.gotoPage()}}>点击跳转</Text>
-        </View>
       </View>
     );
   }
 }
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#F5FCFF',
+  },
+  welcome: {
+    fontSize: 20,
+    textAlign: 'center',
+    margin: 10,
+  },
+  instructions: {
+    marginTop:10,
+    textAlign: 'center',
+    color: '#333333',
+    marginBottom: 5,
+    fontSize: 18,
+  },
+});
