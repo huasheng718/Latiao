@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\779a433cda0b89f73d1de8c17706958226dca850\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_598f2cfd92725b31286d5e405e7718da55b8390e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_58b53576edcffaf0265681089e2c492d08b5b2b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\2a8214446e2e0e33f5df7befde09b2f59bfe1e26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2398773a488221f420617135d3d8d79afaf779ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_b926ff8635144894c0cc3776df4833c16875cd6d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_a750a1b770032031f048c83777c8ce832b3a0f9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.44.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.44.2_72aa234aeebc0cbbf4129fd43fda26f33712f849.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Latiao\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b856bbd2c3c33df2bb2e707ef993a4cd77738e9">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9d5d5bd30f50d4bad750417365e10e646066c2a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\88ff1a4d6b39903623c698ac98b43d989ac5186e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5d467fc46e176a3c04032b20bc28dcf0f315777\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\32033e2cea4527dd27d23bc96b5f899db2772a88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a1e27334a7e31858ed52d3d589563b35c33da24\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_7a5f4687ba044b8346ef6ff7128e05a74b26ea9f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_700e4b833afd670253e1860095b84db9effe196e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_fd9c9b6543ed1a90c7e539901c79077c1b8c6270\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_21fa3ddf592523e62f3fe8e1c313158353dc9d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_9c99be5214267cffa9e79c6b4b5be2415ccdff39.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_c1cc5170bfcf0d4af82ae6e3b608eeeba7b5970a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-gif-1.3.0_a1c63f8682f641ccdb753cd05cd6253e94025e53.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-3.4.1_12965a527c20687eafd940f926ed6304250a7d58\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_c88d8df6915159109e656d4890807a540ebd9954.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Latiao\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_71b50432c874ee202bed6498b8c20cb112bd2bbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.0_7a5f4687ba044b8346ef6ff7128e05a74b26ea9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.4.1_96ff0262b96d359c09e680cb7c4d9e94b440608c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_434b79e423e10a9a7ed49a6e8aa55dda86134b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_700e4b833afd670253e1860095b84db9effe196e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_fd9c9b6543ed1a90c7e539901c79077c1b8c6270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ff997c37654bead6c259c0b124d52bdc944f5bff">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-1.3.0_fa6416c8574b83d5e052fb8d5832c9cdfaf4adba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\00541ea537866437d319e57b654316af5b1c8367\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5231266a24566a96a2d73fdcef6dd8732229a876\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_f4c92c66bcbe137f3964e654c64c8a844c9d94f4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\ae72905f954f59162c3efc4637edd0bf2391835e\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_dc6a395f6f9251af3e9b73297465097b650ea87f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_c1cc5170bfcf0d4af82ae6e3b608eeeba7b5970a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\33f74c1e04e36e66d4d4b84886df3747105d7d23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3f799d50e337f99a39e320021b1e91482e75467\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_c20ec97f9b801d3069d0104708ed8061e7f49df5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\staticlayout-proxy-1.0_fc78b53cc1277106cdc8e2089d84924affb92060\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_626c154b06859acabf2c87aac9982eb039162176.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\daef485b5f95ef29f84b5e271bb281e47d64a492\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b101076469f016714cf5a65b2accb88cae908847\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.44.2\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_a818f0461f83106ce360090a797c7b6d4491bb39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_df0ed4bcf3811d86fddd2e94c48bc8fbb2ae83d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_12965a527c20687eafd940f926ed6304250a7d58.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\d58e8d91787e4c941ff30cd53ae9ec71eaff52cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dcad9e751e952b01f1206336e2c4ba456f712b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_96ff0262b96d359c09e680cb7c4d9e94b440608c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\cce063300b0304a4a36c14c7e41e9e179cd6bfa0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef4f1498711f472bab48504d06472dda9b7d4a42\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_c20ec97f9b801d3069d0104708ed8061e7f49df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\St\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_fc78b53cc1277106cdc8e2089d84924affb92060.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\20b03d6d1aac0af904079c4a73309d738e344573\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff997c37654bead6c259c0b124d52bdc944f5bff">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8c52526c65e527905bf3bd2f054a5a318a944c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\c8102c84824fac76385ad9bfed486976a96796d6\output\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\infer-annotations-1.5_b689daf1120f4456fe4621d68b9ffd101dbfb9ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b5c80b2c04ccbe4fe6e6e45e26b56b2ac5085a6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\St\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_a750a1b770032031f048c83777c8ce832b3a0f9a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\ae72905f954f59162c3efc4637edd0bf2391835e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5eb0b53f8e44f64554af66308818fed07eaff516\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\c8102c84824fac76385ad9bfed486976a96796d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b13b61bcf7d076d33a5fd7c5c49369c44299868b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Latiao\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Latiao\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_31443cf279e2851b8dd3755c046df1e7f6218a96.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\St\.android\build-cache\7477c71b6b5b03fe83d1aad397ec98543081a0ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Latiao\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a143162345d06d932554e29bfd6efb3bc6e9210\classes.dex" />
+    </item>
+
+</items>

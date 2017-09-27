@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\c8102c84824fac76385ad9bfed486976a96796d6\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\c8102c84824fac76385ad9bfed486976a96796d6\\output\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\c8102c84824fac76385ad9bfed486976a96796d6\\output\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\c8102c84824fac76385ad9bfed486976a96796d6\\output\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\c8102c84824fac76385ad9bfed486976a96796d6\\output\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\c8102c84824fac76385ad9bfed486976a96796d6\\output\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "D:\\Latiao\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\St\\.android\\build-cache\\779a433cda0b89f73d1de8c17706958226dca850\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]
